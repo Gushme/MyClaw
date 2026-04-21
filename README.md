@@ -1,9 +1,6 @@
 <div align="center">
-# MyClaw
 
-###  **当 AI 开始"黑箱操作"，你需要一双透视眼**
-
-下一代透明智能体架构** · Next-Gen Transparent Agent Architecture
+#  **MyClaw**
 
 [快速开始](#-快速开始) · [核心能力](#-核心能力) · [架构图](#-系统架构) · [示例](#-基本用法)
 
